@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @woohyun0924
-- 👀 I’m majoring in Electronic Engineering
+- 📖 I’m majoring in ⚡️Electronic Engineering⚡️
 - 🌱 I’m currently learning Swift
 - 📫 Woohyun0924@gmail.com
 
