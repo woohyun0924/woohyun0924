@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @woohyun0924
 - 📖 I’m majoring in ⚡️Electronic Engineering⚡️
 - 🌱 I’m currently learning Swift
-- 📫 Woohyun0924@gmail.com
+- 📫 Contact me at forzaferrari0924@icloud.com
 
 <!---
 woohyun0924/woohyun0924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
